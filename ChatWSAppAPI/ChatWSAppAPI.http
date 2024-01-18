@@ -1,0 +1,15 @@
+@ChatWSAppAPI_HostAddress = http://localhost:5140
+
+###
+GET {{ChatWSAppAPI_HostAddress}}/allmessages/
+Accept: application/json
+###
+GET {{ChatWSAppAPI_HostAddress}}/user?user=a
+Accept: application/json
+###
+GET {{ChatWSAppAPI_HostAddress}}/group?groupname=qwertz&key=qwertz
+Accept: application/json
+###
+GET {{ChatWSAppAPI_HostAddress}}/word?word=yo
+Accept: application/json
+###
