@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChatWSAppAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b574da67aa11dd3b442a40caa43ef1b638b0e90")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChatWSAppAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChatWSAppAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,11 @@
+C:\Users\om777\.nuget\packages\microsoft.aspnetcore.authentication.jwtbearer\8.0.1\lib\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\om777\.nuget\packages\microsoft.aspnetcore.openapi\8.0.0\lib\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.abstractions\7.1.2\lib\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.jsonwebtokens\7.1.2\lib\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.logging\7.1.2\lib\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.protocols\7.1.2\lib\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\7.1.2\lib\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.tokens\7.1.2\lib\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\om777\.nuget\packages\microsoft.openapi\1.4.3\lib\netstandard2.0\Microsoft.OpenApi.dll
 C:\Users\om777\.nuget\packages\mongodb.bson\2.19.1\lib\netstandard2.1\MongoDB.Bson.dll
 C:\Users\om777\.nuget\packages\realm\11.6.1\lib\net6.0\Realm.dll
@@ -7,6 +14,7 @@ C:\Users\om777\.nuget\packages\remotion.linq\2.2.0\lib\netstandard1.0\Remotion.L
 C:\Users\om777\.nuget\packages\swashbuckle.aspnetcore.swagger\6.4.0\lib\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\om777\.nuget\packages\swashbuckle.aspnetcore.swaggergen\6.4.0\lib\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\om777\.nuget\packages\swashbuckle.aspnetcore.swaggerui\6.4.0\lib\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\om777\.nuget\packages\system.identitymodel.tokens.jwt\7.1.2\lib\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\om777\.nuget\packages\realm\11.6.1\runtimes\android-arm\native\librealm-wrappers.so
 C:\Users\om777\.nuget\packages\realm\11.6.1\runtimes\android-arm64\native\librealm-wrappers.so
 C:\Users\om777\.nuget\packages\realm\11.6.1\runtimes\android-x64\native\librealm-wrappers.so

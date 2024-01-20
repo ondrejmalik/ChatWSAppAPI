@@ -1,4 +1,11 @@
+C:\Users\om777\.nuget\packages\microsoft.aspnetcore.authentication.jwtbearer\8.0.1\lib\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\om777\.nuget\packages\microsoft.aspnetcore.openapi\8.0.0\lib\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.abstractions\7.1.2\lib\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.jsonwebtokens\7.1.2\lib\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.logging\7.1.2\lib\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.protocols\7.1.2\lib\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\7.1.2\lib\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\om777\.nuget\packages\microsoft.identitymodel.tokens\7.1.2\lib\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\om777\.nuget\packages\microsoft.openapi\1.4.3\lib\netstandard2.0\Microsoft.OpenApi.dll
 C:\Users\om777\.nuget\packages\mongodb.bson\2.19.1\lib\netstandard2.1\MongoDB.Bson.dll
 C:\Users\om777\.nuget\packages\realm\11.6.1\lib\net6.0\Realm.dll
@@ -9,6 +16,7 @@ C:\Users\om777\.nuget\packages\swashbuckle.aspnetcore.swaggergen\6.4.0\lib\net6.
 C:\Users\om777\.nuget\packages\swashbuckle.aspnetcore.swaggerui\6.4.0\lib\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\om777\.nuget\packages\system.collections.concurrent\4.3.0\lib\netstandard1.3\System.Collections.Concurrent.dll
 C:\Users\om777\.nuget\packages\system.dynamic.runtime\4.3.0\lib\netstandard1.3\System.Dynamic.Runtime.dll
+C:\Users\om777\.nuget\packages\system.identitymodel.tokens.jwt\7.1.2\lib\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\om777\.nuget\packages\system.io.filesystem.primitives\4.3.0\lib\netstandard1.3\System.IO.FileSystem.Primitives.dll
 C:\Users\om777\.nuget\packages\system.linq\4.3.0\lib\netstandard1.6\System.Linq.dll
 C:\Users\om777\.nuget\packages\system.linq.expressions\4.3.0\lib\netstandard1.6\System.Linq.Expressions.dll
